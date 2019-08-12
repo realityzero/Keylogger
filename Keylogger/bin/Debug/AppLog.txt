@@ -1,0 +1,408 @@
+[3103.2018 18:20:45]
+Hook Started... Timer started
+
+[3103.2018 18:21:22]
+Mail was not send! Error Code: 259
+
+[3103.2018 18:21:22]
+<From SendMail> Return code: 4297936
+
+[3103.2018 22:02:05]
+Hook Started... Timer started
+
+[3103.2018 22:02:41]
+<From SendMail> Return code: 7
+
+[0204.2018 15:46:24]
+Hook Started... Timer started
+
+[0204.2018 15:47:00]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:47:00]
+<From SendMail> Return code: 4297936
+
+[0204.2018 15:47:34]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:48:08]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:48:42]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:49:15]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:49:48]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:50:22]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:50:56]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:51:29]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:52:03]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:52:36]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:53:09]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:53:43]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:54:16]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:54:50]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:55:25]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:55:59]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:56:32]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:57:06]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:57:40]
+Mail was not send! Error Code: 3
+
+[0204.2018 15:58:17]
+Mail was not send! Error Code: 259
+
+[2205.2018 11:51:42]
+Hook Started... Timer started
+
+[2205.2018 11:52:20]
+Mail was not send! Error Code: 259
+
+[2205.2018 11:52:20]
+<From SendMail> Return code: 4298016
+
+[2205.2018 11:52:53]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:55:26]
+Hook Started... Timer started
+
+[2205.2018 11:55:58]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:55:59]
+<From SendMail> Return code: 4298016
+
+[2205.2018 11:56:31]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:57:05]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:57:38]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:58:13]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:58:46]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:59:19]
+Mail was not send! Error Code: 3
+
+[2205.2018 11:59:52]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:00:25]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:04:50]
+Hook Started... Timer started
+
+[2205.2018 12:05:23]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:05:23]
+<From SendMail> Return code: 4298016
+
+[2205.2018 12:05:56]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:06:28]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:07:01]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:08:59]
+Hook Started... Timer started
+
+[2205.2018 12:09:35]
+<From SendMail> Return code: 7
+
+[2205.2018 12:15:03]
+Hook Started... Timer started
+
+[2205.2018 12:15:38]
+<From SendMail> Return code: 7
+
+[2205.2018 12:23:16]
+Hook Started... Timer started
+
+[2205.2018 12:23:51]
+<From SendMail> Return code: 7
+
+[2205.2018 12:27:56]
+Hook Started... Timer started
+
+[2205.2018 12:28:31]
+<From SendMail> Return code: 7
+
+[2205.2018 12:30:10]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:30:43]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:30:57]
+Hook Started... Timer started
+
+[2205.2018 12:31:30]
+Mail was not send! Error Code: 3
+
+[2205.2018 12:31:30]
+<From SendMail> Return code: 4298016
+
+[2205.2018 12:32:02]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:51:25]
+Hook Started... Timer started
+
+[2205.2018 16:51:58]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:51:58]
+<From SendMail> Return code: 4298016
+
+[2205.2018 16:52:31]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:53:04]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:53:53]
+Hook Started... Timer started
+
+[2205.2018 16:54:27]
+<From SendMail> Return code: 7
+
+[2205.2018 16:55:34]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:56:07]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:56:40]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:57:12]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:57:45]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:58:17]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:58:50]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:59:23]
+Mail was not send! Error Code: 3
+
+[2205.2018 16:59:55]
+Mail was not send! Error Code: 3
+
+[2205.2018 17:00:27]
+Mail was not send! Error Code: 3
+
+[2205.2018 17:01:00]
+Mail was not send! Error Code: 3
+
+[2205.2018 17:01:33]
+Mail was not send! Error Code: 3
+
+[2205.2018 17:02:06]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:08:05]
+Hook Started... Timer started
+
+[3105.2018 15:08:42]
+Mail was not send! Error Code: 259
+
+[3105.2018 15:08:42]
+<From SendMail> Return code: 4298016
+
+[3105.2018 15:09:15]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:09:48]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:10:21]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:10:53]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:11:26]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:11:58]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:12:31]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:13:04]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:13:36]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:14:09]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:14:41]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:15:14]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:15:47]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:16:20]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:16:52]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:17:25]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:17:57]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:18:30]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:19:02]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:19:35]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:20:07]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:20:40]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:21:12]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:21:45]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:22:17]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:22:50]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:23:23]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:23:55]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:24:28]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:25:00]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:25:33]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:26:05]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:26:37]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:27:10]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:27:43]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:28:15]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:28:48]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:29:20]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:29:53]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:30:25]
+Mail was not send! Error Code: 3
+
+[3105.2018 15:30:57]
+Mail was not send! Error Code: 3
+
+[2307.2018 23:17:08]
+Hook Started... Timer started
+
+[2307.2018 23:17:45]
+Mail was not send! Error Code: 259
+
+[2307.2018 23:17:45]
+<From SendMail> Return code: 4298016
+
+[2307.2018 23:18:20]
+Mail was not send! Error Code: 3
+
+[2307.2018 23:18:55]
+Mail was not send! Error Code: 3
+
+[0808.2018 23:18:10]
+Hook Started... Timer started
+
+[0808.2018 23:18:45]
+<From SendMail> Return code: 7
+
+[0808.2018 23:22:01]
+Hook Started... Timer started
+
+[0808.2018 23:22:37]
+<From SendMail> Return code: 7
+
